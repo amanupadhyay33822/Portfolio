@@ -24,8 +24,8 @@ const projects = [
   {
     title: "Portfolio Website",
     description: "Made using React, TailwindCSS",
-    link: "#",
-    liveLink:"",
+    link: "https://github.com/amanupadhyay33822/Portfolio-",
+    liveLink:"https://portfolio-three-psi-41.vercel.app/",
     image: "./images/project3.jpg",
     icons: [<FaReact/>,  <SiTailwindcss/>],
   },
