@@ -22,7 +22,7 @@ const projects = [
     icons: [<RiNextjsLine />, <SiTailwindcss/>, <FaNode />, <SiMongodb/>],
   },
   {
-    title: "Portfolio Website",
+    title: "Portfolio-Website",
     description: "Made using React, TailwindCSS",
     link: "https://github.com/amanupadhyay33822/Portfolio-",
     liveLink:"https://portfolio-three-psi-41.vercel.app/",
